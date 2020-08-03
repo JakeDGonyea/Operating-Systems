@@ -1,2 +1,3 @@
 # Operating-Systems
-One of the most basic funtions of an operating system is memory management. This refers to the management of Primary Memory or Main Memory. Main memory provides a storage that can be quickly accessed by the CPU. In order for a program to be executed it must be in the main memory.
+  One of the most basic funtions of an operating system is memory management. This refers to the management of Primary Memory or Main Memory. Main memory provides a storage that can be quickly accessed by the CPU. In order for a program to be executed it must be in the main memory.
+  Processor Management is another crucial task held by the operating system. With multiple programs running, it is up to the OS to decide which process get the processor when and for how much time. Basically it keeps track of the processor and the status of the process, it allocates the CPU to a process, and it de-allocates the CPU when a process is no longer required.
